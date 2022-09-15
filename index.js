@@ -1,7 +1,5 @@
 const { useState, useEffect } = React;
 
-//  a blockquote, an image, and bolded text
-
 function App() {
   const [text, setText] = useState(`
   # H1
