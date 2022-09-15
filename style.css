@@ -24,3 +24,7 @@
     box-shadow: 1px 1px 5px 1px gray;
     border-radius: 20px 0px;
 }
+
+#preview img{
+    max-width: 100%;
+}
